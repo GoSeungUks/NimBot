@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hardy-thinker-247111",
+  "private_key_id": "f407d224869da35907e89bda8cd55d22070c1191",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoa/z+Kxarx4t/\n9LJgyIOR+SjWopjMsZTSLoR7MfvZWBE+okv5112EiIZL3adKYogUypSzkc2l9JuP\nJNqBl/5dS4m4Pp0BU5BSe1zSDcVhw6BkzKQOCy71nwNDlB+Anlbf1Pyo5oTxHRBd\n/SNA/eor3kniRtmOzD4pluzqPa6bE0TdjEPLjwM/Jy3dyhIQc7iD3CfDzAT0YXu+\nxek3A2rWGlGigJ6XdID+vZnvvDgzYuup7/emj3TJYGOU8Z7fPVLWRAEgemGN3rOd\nL22gHGKbSOLONQ+B0h7SkUkap9JGxetiHMogjEbePCCMjnJZo5ahkmbtnk4DFiKv\nDEhlmQjpAgMBAAECggEAIy9OLt4bEh9xk/Vvh3sUS3xRLQfSYp7tr3wi1qbSTa1R\nivN2alc09QFdhv9jGc3cTnWk25/H5dXkYqLpGB5D+EMV3h0MiVCnC6g0c7iHRf2L\npks/MaTh9lO2J5nL+/94ODIjZ3ijCMkQ2IXP5d213FzHtCMng6bFDMS4MVZaAhDN\ndbgzjnUlrY7XR7RT6hDnQmDs5aQW88wofE5oOubyKnoXr2ElXgN8jUDYhiMDqqtN\nG3GpB9LUgVS9e7s6VSHZo1dILm1MDKbbdS3jV3eKaUVcN5fy4YNddIy7T1mXaxgT\nSEV4VCnHQWTylS2QUqux8oFpw06jL3A/jb9DuhyeFQKBgQDQHyFvVKQ5Ai0IsKfL\nAjeBaTk2AOSUFOSvsLIOyNPEA/LbHvu2kVQBcMLOxhD1GP9nCoDuET5HZdQ7vD/2\nQTftjzAtk2tBAreVOI/F7bY7lKsTvV9XfcTPW2zTIAptVETquJhy0d6pzGHVrOrx\nDBD+5Ua2aa6/xZWAakyAxdm/zQKBgQDPKtNiaHDncNTKHHU3H0XHJOEs/t+rjLa2\nuJ2Gx19mjDfxOGq13QWfjBVu5I0EWVKHxgRSxcMBSVQEpdrJ3qb4T6DuU9HskYye\ngcR50bYOZ2zhgfIbjkSqqYQmn3Cv1/d/z9t44cTtSTH5DGiSy5yAIB4xLDYAMblT\nmeYdsYz5jQKBgA+eJm4qVeCJT0PVreHIGs41TTvGOWD7aGXexp3haDLPcQwMeSss\nILey9It7xY3/ADuFSEOVO60z8QdCizI5lq7XDfB9nZDVWV1zTya1PfWepG/oyBzS\nrVA6NiJpxx6JMlrC233STflEAxt7zG2mUCgwoGvT5m8xrpRiZbdMIZkJAoGAATks\nhGE/gW5eI09ltcyeed2S4tQid/3dulh+vaQBwTZEwkzl/GrwtI98NOpulr78SMb3\nkZGPZDuNnnVoRFbnP4Ig3idqju4RGYKEqX9+hrk/oFlHF7iQWT2lBSFd5fvtfzi4\nAA+9PPV4sRLMr0k6hFssMngjXX7trDu1ayl4PqUCgYABO2FktTrhyGkBnmwbjZbk\nrfG+p4NpVNmbkg0/iTosnPTOCWqV7BOBtDrA4LN4+A5orrsy0ze4K/FrXaLiKr+O\nJzSx4QsHsGHkMKsbD/wob1qonpAAeaIyxfyCPEthFbBJtf0DWtvCDx0Tfc6XitqO\neuE3pjUZYXsdYlHRhHYYwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bankbok@hardy-thinker-247111.iam.gserviceaccount.com",
+  "client_id": "106978272272667077005",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bankbok%40hardy-thinker-247111.iam.gserviceaccount.com"
+}
